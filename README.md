@@ -1,4 +1,4 @@
-# UndoPickle
+# SecurePickle
 
 The idea behind this project is to on enhancing the security of Python's pickle module. 
 The main security concerns behind the current pickle module are:
