@@ -8,7 +8,7 @@ The main security concerns behind the current pickle module are:
   4. Pickles lack authentication – There’s no way to verify that a given pickle file comes from a trusted source, leading to supply chain risks.
 
 Pickle module implementation of serialization and de-serialization
-![picklemodule](https://github.com/user-attachments/assets/be24ceff-2c41-41de-b1e2-b1724a54c31b)
+![picklemodule](https://github.com/user-attachments/assets/fbcd4cf8-38a5-4d04-ac31-1614f68a6ff1)
 
-Implementing SecurePickle v0.1.0
-![spicklev010](https://github.com/user-attachments/assets/49c3bd0d-fd0e-4923-abca-41c4f691118a)
+Implementation of SecurePickle v0.1.0
+![spicklev010](https://github.com/user-attachments/assets/56bcaf00-4dd1-432d-a091-9accdb4d8007)
