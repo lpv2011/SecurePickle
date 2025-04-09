@@ -7,4 +7,8 @@ The main security concerns behind the current pickle module are:
   3. Pickles do not provide confidentiality – Pickled ML models can be easily deserialized and inspected, making proprietary models vulnerable to reverse engineering.
   4. Pickles lack authentication – There’s no way to verify that a given pickle file comes from a trusted source, leading to supply chain risks.
 
-More information to come!
+Pickle module implementation of serialization and de-serialization
+![picklemodule](https://github.com/user-attachments/assets/be24ceff-2c41-41de-b1e2-b1724a54c31b)
+
+Implementing SecurePickle v0.1.0
+![spicklev010](https://github.com/user-attachments/assets/49c3bd0d-fd0e-4923-abca-41c4f691118a)
